@@ -4,7 +4,7 @@ Curso - JavaScript Ninja onde é aprendido conceitos do básico ao avançado sob
 
 Segue a ementa dos conteúdos a serem estudados durante o curso e mais os exercícios a serem desenvolvidos:
 
-### Aula 1:
+### [Aula 1:](https://github.com/glaucia86/curso-javascript-ninja/tree/master/Aula%20-%2001)
 
 - 1.2) Variáveis e Tipos de Dados
 - 1.3) Operadores Aritméticos
