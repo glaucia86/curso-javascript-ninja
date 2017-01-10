@@ -3,9 +3,11 @@
  * Author: Glaucia Lemos
  * Data: 10/01/2016
  * 
+ * Observação: (exemplos realizados no terminal via node)
+ * 
  */
 
-// 1) Exemplo de Declaração de Variável (exemplos realizados no terminal via node)
+// 1) Exemplo de Declaração de Variável 
 
 > var x
 undefined
