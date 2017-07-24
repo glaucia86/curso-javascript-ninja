@@ -6,3 +6,5 @@
  * Observação: (exemplos realizados no terminal via node)
  * 
  */
+
+ 
