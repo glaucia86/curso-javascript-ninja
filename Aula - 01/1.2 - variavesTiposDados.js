@@ -1,7 +1,7 @@
 /**
  * Aula: 1.2 - Variavíes e Tipos de Dados
  * Author: Glaucia Lemos
- * Data: 10/01/2016
+ * Data: 10/01/2017
  * 
  * Observação: (exemplos realizados no terminal via node)
  * 
