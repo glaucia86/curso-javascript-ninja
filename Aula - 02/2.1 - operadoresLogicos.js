@@ -43,8 +43,6 @@ true
 true
 > ! x === 3
 false
-> x !=== 3
-...
 > x !== 3
 false
 > x != 3
