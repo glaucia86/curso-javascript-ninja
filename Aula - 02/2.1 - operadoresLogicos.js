@@ -1,7 +1,7 @@
 /**
  * Aula: 2.1 - Operadores Lógicos
  * Author: Glaucia Lemos
- * Data: 10/01/2016
+ * Data: 24/07/2017
  * 
  * Observação: (exemplos realizados no terminal via node)
  * 
