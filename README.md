@@ -12,7 +12,7 @@ Segue a ementa dos conteúdos a serem estudados durante o curso e mais os exerc�
 - 1.5) Funções
 - 1.6) Desafio da Semana 01
 
-###  Aula 2:
+###  [Aula 2](https://github.com/glaucia86/curso-javascript-ninja/tree/master/Aula%20-%2002):
 
 - 2.1) Operadores Lógicos
 - 2.2) Operadores Unários
