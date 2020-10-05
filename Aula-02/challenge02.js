@@ -40,7 +40,7 @@ function valorVariavel() {
 }
 
 // Invoque a função criada acima.
-Adicionar();
+// Adicionar();
 
 // Qual o retorno da função? (Use comentários de bloco).
 /* O valor da variável agora é.....: 20 */
@@ -65,7 +65,7 @@ Multiplicar(5,2);
 
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
 /*
- 'Preencha todos os valores corretamente'
+'Preencha todos os valores corretamente'
 **/
 
 // Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
