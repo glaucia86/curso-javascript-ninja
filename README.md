@@ -26,13 +26,16 @@ Segue a ementa dos conteúdos a serem estudados durante o curso e mais os exerc�
 - 3.2) Métodos de Objeto
 - 3.3) Desafio da Semana 03
 
-## Aula 04:
+## [Aula 04](https://github.com/glaucia86/curso-javascript-ninja/tree/master/Aula-04):
 - 4.1) Truthy e Falsy
 - 4.2) Condicional Ternário
 - 4.3) Escopo de variáveis e funções
-- 4.4) Retorno de funções com arrays e objetos
-- 4.5) Parâmetros de Funções com arrays e objetos
-- 4.5) Operador vírgula e estrutura condicional switch
+
+## Aula 05:
+
+- Retorno de funções com arrays e objetos
+- Parâmetros de Funções com arrays e objetos
+- Operador vírgula e estrutura condicional switch
 
 - Estrutura de repetição while
 - O operador módulo
