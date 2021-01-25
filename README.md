@@ -30,12 +30,13 @@ Segue a ementa dos conteúdos a serem estudados durante o curso e mais os exerc�
 - 4.1) Truthy e Falsy
 - 4.2) Condicional Ternário
 - 4.3) Escopo de variáveis e funções
+- 4.4) Desafio da Semana 04
 
 ## Aula 05:
 
-- Retorno de funções com arrays e objetos
-- Parâmetros de Funções com arrays e objetos
-- Operador vírgula e estrutura condicional switch
+- 5.1) Retorno de funções com arrays e objetos
+- 5.2) Parâmetros de Funções com arrays e objetos
+- 5.3) Operador vírgula e estrutura condicional switch
 
 - Estrutura de repetição while
 - O operador módulo
