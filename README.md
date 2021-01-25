@@ -36,7 +36,7 @@ Segue a ementa dos conteúdos a serem estudados durante o curso e mais os exerc�
 
 - 5.1) Retorno de funções com arrays e objetos
 - 5.2) Parâmetros de Funções com arrays e objetos
-- 5.3) Operador vírgula e estrutura condicional switch
+- 5.3) Desafio da Semana 05
 
 - Estrutura de repetição while
 - O operador módulo

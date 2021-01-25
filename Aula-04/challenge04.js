@@ -7,7 +7,7 @@
  * Comando: atualizar o branch: 
  * 1) git fetch upstream
  * 2) git merge upstream/master
- * 3) git checkout -b challenge-03 (aqui crio uma nova branch)
+ * 3) git checkout -b challenge-04 (aqui crio uma nova branch)
  * 
  */
 
@@ -137,7 +137,7 @@ mostrar quantos assentos ainda podem ser ocupados, com a frase:
 - Se couber somente mais uma pessoa, mostrar a palavra "pessoa" no retorno
 citado acima, no lugar de "pessoas".
 */
-
+```js
 carro.adicionarPessoas = function(numeroPessoas) {
     let totalPessoas = carro.quantidadePessoas + numeroPessoas;
 
@@ -154,6 +154,7 @@ carro.adicionarPessoas = function(numeroPessoas) {
     carro.quantidadePessoas += numeroPessoas;
     return 'Já temos ' + totalPessoas + ' pessoas no carro!'
 };
+```
 
 /*
 Agora vamos verificar algumas informações do carro. Para as respostas abaixo,
